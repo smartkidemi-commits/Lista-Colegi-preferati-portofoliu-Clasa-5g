@@ -1,0 +1,33 @@
+#b{
+    background-color: bisque;
+}
+
+#start{
+    text-align: center;
+    font-weight: bold;
+}
+li{
+    background-color: white;
+}
+#atentionare{
+    color: red;
+}
+#last-content{
+    text-align: right;
+}
+#classpfp{
+    height: 300px;
+    width: 500px;
+}
+#IVG{
+    height: 300px;
+    width: 500px;
+}
+#IVGP{
+    text-align: right;
+    margin-bottom: 300px;
+    margin-right: 700px;
+}
+#adi{
+    margin-bottom: 400px;
+}
